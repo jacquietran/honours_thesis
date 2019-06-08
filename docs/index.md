@@ -1,17 +1,34 @@
 --- 
-title: "A Minimal Bookdown Book"
-author: "Sean Kross"
-date: "2016-12-09"
+title: "Validity of accelerometer data in field team sports activities"
+author: "Jacqueline Tran"
+date: "October 2009"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: seankross/bookdown-start
-url: 'http\://seankross.com/bookdown-start/'
-description: "Everything you need (and nothing more) to start a bookdown book."
+github-repo: jacquietran/honours_thesis
+url: 'https\://jacquietran.com/'
+description: ""
 ---
 
 # Preface {-}
 
-This is the very first part of the book.
+This is a web-friendly version of my Honours thesis, converted to an online format using the `bookdown` package in R.
+
+The thesis was submitted in 2009 in partial fulfillment of the requirements for the Bachelor of Exercise and Sport Science (Honours) degree. The degree was conferred to me in 2010 by the School of Exercise and Nutrition Sciences, Deakin University, Australia.
+
+-----
+
+The research team produced a conference paper from this study, which was presented at the 2010 International Conference on Biomechanics in Sport:
+
+> Tran, J., Netto, K., Aisbett, B. and Gastin, P. 2010, Validation of accelerometer data for measuring impacts during jumping and landing tasks, *in Proceedings of the 28th International Conference on Biomechanics in Sports (2010)*, International Society of Biomechanics in Sports, Konstanz, Germany, pp. 1-4. [**(link to full text)**](http://dro.deakin.edu.au/view/DU:30032107)
+
+-----
+
+Modifications from the originally submitted thesis have been made as follows:
+
+- Section ordering has been altered to take adavntage of the web format and produce a user-friendly document for better readability and easier navigation.
+- In-text citations have been altered to an author-date style.
+- No table of contents page has been rendered in this web format, since the left sidebar navigation inherently provides this.
+- Most of the front matter, such as lists of table and figure captions, have been moved to the end of the thesis as part of the Appendices.

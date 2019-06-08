@@ -1,0 +1,65 @@
+# Methodology
+
+## Participants and recruitment
+
+Thirteen healthy adults (7 males and 6 females, age: 23.38 + 3.43 years, height: 172.6 + 10.6 cm, mass: 69.3 + 10.0 kg) were recruited for this study. Participant inclusion was based on age (18-40 years), regular involvement (at least once per week) in an organized sport or physical activity that required athletes to perform the sporting movements prescribed in the present study (short-distance running, changes of direction, jumping, and landing movements), and no lower limb joint injuries sustained in the 6 months preceding testing. The first and second criteria were designed to address the external validity of the study design by testing a similar population to the population of interest (team sport athletes). The third criterion was set for safety reasons, due to the high impact nature of the movement tasks prescribed. Similarly, any participants that reported a history of any lower limb joint injury that required surgical treatment were excluded from undertaking the drop jumping task. Three of the thirteen participants were excluded from data analysis, due to accelerometer unit malfunction which resulted in lost data. Thus, the data from the remaining 10 participants were analysed for this study. Of these 10 participants, 9 individuals completed all five movement tasks, and 1 participant completed four movement tasks (excluded from drop jumping task due to history of operable lower limb joint injury). The study protocol was approved by the Deakin University Human Research Ethics Committee (see Appendix A.1). Informed consent was obtained from all participants prior to the commencement of testing.
+
+## Instruments
+
+### GPS-embedded accelerometer
+
+To measure accelerations, participants wore a data-recording accelerometer unit, embedded within a GPS monitor (SPI Pro, serial no. ASP00725, GPSports Pty Ltd, Australia) for the duration of their trials. The same unit was used for all participants. The SPI Pro is a small, mobile phone-sized unit, housing a GPS unit and a triaxial accelerometer, and is designed to be worn in shoulder-mounted harnesses provided by the manufacturer (see Figure 3.1). The GPS unit was set to indoor mode, disabling the GPS function and allowing the accelerometer to collect data indoors. The GPS unit was orientated in the same direction for all participants, such that the Y axis of the accelerometer aligned with the longitudinal axis of the participant. The accelerometer sampled data at 100 Hz (i.e., 100 data points per second), and data was stored on-board the unit itself. Following each data collection session, accelerometer data from the SPI Pro unit was downloaded to a personal computer using the Team AMS proprietary software provided by the manufacturer (version 2.1.05 P2, GPSports Pty Ltd, Australia).
+
+**// FIGURE 3.1 GOES HERE //**
+
+### Portable force plate
+
+To provide one criterion measure against which to validate the accelerometer data, VGRF for all jumping and landing tasks were measured using a portable force plate (model ACG, serial no. 0687, Advanced Mechanical Technologies Inc. [AMTI], United States of America [USA]), sampling at 100 Hz. The portable force plate was calibrated using weight plates totalling 200 kg, which registered a force reading of 1978.2 N (0.83% greater than expected reading [1962.0 N], where a = 9.81 m.s-2). During data collection, the portable force plate was connected to a personal computer and operated through the AMTI Netforce software (version 2.4.0, AMTI, USA) provided by the force plate manufacturer. Data were saved to the hard drive after each trial.
+
+### Motion capture laboratory
+
+All movement tasks were completed in the Deakin University Motion Capture Laboratory using twenty-four high-speed digital cameras (model Eagle-4, Motion Analysis, USA). This motion analysis system was used to capture the movement of three reflective markers placed on each participant (refer to section 3.4.2 Data Collection). The system was calibrated on the morning of each testing day, using a standard motion capture calibration protocol (30), with a reported positional error of 1 mm. During data collection, the system was operated and each trial recorded using Cortex motion analysis software (version 1.1.4.368, Motion Analysis, USA). The sampling rate of the motion capture laboratory was set at 120 Hz. Following each testing day, data were copied to a personal computer for further analysis.
+
+### Timing gates
+
+Infra-red timing gates (Smartspeed, FusionSport Pty Ltd, Australia) were used for both the running and cutting tasks. During the running task, gates were placed at 0 m (starting line), 5 m, and 10 m (finish line), to capture the split times for each trial (see Figure 3.5). This data was used to determine whether the three self-selected running speeds (corresponding to a “moderate jog”, “stride run”, or “sprint”) were significantly different from one another. During the cutting task, gates were placed at 0 m (starting line), 5 m (trigger gate), and two possible finishing gates placed at 10 m. The two finishing gates were spaced 5 m apart from each other (i.e., 2.5 m to the left or right side of the straight line path through the 0-5 m gates) (see Figure 3.5). During data collection, the timing gate system was operated using the SmartSpeed software provided by the manufacturer (FusionSport, Australia), installed a handheld Personal Digital Assistant (PDA) device. Data was saved to the PDA hard drive, and then exported to a personal computer.
+
+## Preliminary assessment procedures
+
+### Familiarization session
+
+Participants completed a 60-minute familiarization session prior to their respective data collection session. During this session, participants were provided instructions for the performance of each movement task, to reduce inter- and intra-participant variability (39).
+
+### Anthropometric assessments
+
+To collect descriptive data, each participant’s height and weight were measured once, on the day on which they were scheduled to undertake testing. All participants were measured with shoes and socks off, wearing the same clothing as they would wear during data collection. Data was collected to the nearest 0.1 cm, and 0.1 kg using a stadiometer (PE27, Sportsforce, Australia) and electronic scales (model UC-321, serial no. 3030400011, A&D Mercury Pty Ltd, Australia).
+
+## Experimental design
+
+This study used a quasi-experimental study design, incorporating repeated measures of each movement task measured in one session. Each participant completed their prescribed protocol in one 3.5 hour session. Movement tasks were completed in the following order: (A) drop landing, (B) countermovement jumping, (C) drop jumping, (D) running, (E) cutting. Tasks were completed in the same order for each testing session (see Figure 3.2). In total, six data collection sessions were conducted on three separate days (two sessions on each day).
+
+**// FIGURE 3.2 GOES HERE //**
+
+### Pilot testing
+
+There were initial plans to use a SPI Pro model monitor (GPSports Pty Ltd, Australia) for all data collection, including pilot testing. However, delivery of the SPI Pro unit from the manufacturer was delayed for 5 weeks. Given the broader time constraints of the project as a whole, it was decided that pilot testing would proceed with the use of one WiSPI unit (serial no. K07W0475, GPSports Pty Ltd, Australia). Pilot testing was conducted two weeks prior to data collection. One individual participated as the pilot testing participant (age: 23 years, height: 188.0 cm, weight: 76.0 kg), following a similar movement task protocol as prescribed for the data collection session. The WiSPI unit was configured to indoor mode to collect accelerometer data.
+
+**// FIGURE 3.3 GOES HERE //**
+
+Inspection of the pilot testing data revealed that the peak accelerometer data were consistently clipped during the majority of jumping and landing trials, due to the + 6 g range of the WiSPI accelerometer (see Figure 3.3). Therefore, it was decided that data collection would proceed with the one SPI Pro monitor instead, housing a triaxial accelerometer with a range of + 8 g.
+
+### Participant preparation
+
+Participants were instructed to dress in tight-fitting lower-body clothing if possible (e.g., compression shorts or pants, running tights, etc.) and to avoid loose fitting upper body garments. During the data collection phase, each session began with participants arriving at the university to undertake the preparation phase, which included recording of descriptive data, harness fitting, and attachment of reflective markers. Three markers were attached to participants, corresponding with the following sites: posterior aspect of the shoulder-mounted harness, immediately superior to the integrated pouch sewn in to hold the GPS unit; sacrum, on the midline of the body; and the left lateral malleolus (see Figure 3.4). All reflective markers were secured with adhesive tape. Where necessary, reflective surfaces (e.g., reflective fabric on shoes) were covered either with fabric tape, or with black fabric foot bags, for ease of data post-processing. All participants completed a 5-minute warm up prior to the commencement of the movement tasks.
+
+**// FIGURE 3.4 GOES HERE //**
+
+### Data collection
+
+All trials were conducted indoors, in the Deakin University Motion Capture Laboratory. To avoid introducing inter-unit variability, only one specific SPI Pro unit was used for testing the performance of all movement tasks across all participants. During sessions in which more than one participant was being tested, the GPS unit was swapped from one participant to the next after the performance of each trial. Though platform heights of 30 cm, 40 cm, and 50 cm were utilized in the drop landing and drop jumping tasks, the actual elevated heights from the force plate were 25.5 cm, 35.5 cm, and 45.5 cm, due to the 4.5 cm height of the portable plate itself.
+
+**// FIGURE 3.5 GOES HERE //**
+
+**Drop landing (DLAND):** Participants completed 15 drop landing trials in total (5 trials from each of the three prescribed platform heights 30 cm, 40 cm, and 50 cm), with two minutes rest between trials to cater for full physiological recovery. Trial conditions (platform height) were randomized for each participant to account for any ordering effects. The front edge of the platform was placed 15 cm away from the back edge of the force plate. Participants were instructed to begin each trial by stepping up onto the platform, positioning their feet hip width apart, with their toes extended slightly past the front edge of the platform. Arms were held at 90º of shoulder flexion for the entirety of each trial (see Figure 3.5). To begin the drop landing movement, participants shifted their body weight forward, and were instructed to land both feet on the force plate at approximately the same time, using their natural landing style. This protocol was selected based on drop landing tasks employed in previous research (60).
+
+**Countermovement jumping (CMJ):**
