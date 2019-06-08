@@ -1,7 +1,7 @@
-book_filename: "bookdown-start"
+book_filename: "tran_honours_thesis_2009"
 chapter_name: "Chapter "
-repo: https://github.com/seankross/bookdown-start
+repo: https://github.com/jacquietran/honours_thesis
 output_dir: docs
-rmd_files: ["index.Rmd", "01-Introduction.Rmd", "02-Diving-In.Rmd"]
+rmd_files: ["index.Rmd", "01-Abstract.Rmd", "02-Introduction.Rmd", "03-Literature-Review.Rmd", "04-Methods.Rmd"]
 clean: [packages.bib, bookdown.bbl]
 new_session: yes
